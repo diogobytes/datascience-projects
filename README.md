@@ -1,6 +1,7 @@
 # Data Science Projects Repository
 
-![Data Science](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Data_Visualization_Icon.png/600px-Data_Visualization_Icon.png)
+![Data Science](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png)
+
 
 ## Welcome to My Data Science Projects
 
